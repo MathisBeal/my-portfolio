@@ -37,7 +37,7 @@
 .intro {
   width: 100%;
   height: 30rem;
-  background-image: url('public/intro_back.png');
+  background-image: url('my-portfolio/intro_back.png');
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
