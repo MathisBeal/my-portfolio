@@ -11,12 +11,12 @@
           Projets :
           <ul class="site-plan-sublist">
             <li><a href="/nutriplan">Nutriplan</a></li>
-            <li><a href="/power-ai">Power AI</a></li>
-            <li><a href="/tractopel">Tractopel</a></li>
-            <li><a href="/museum">Musée 3D</a></li>
+            <li><a href="#">Power AI</a></li>
+            <li><a href="#">Tractopel</a></li>
+            <li><a href="#">Musée 3D</a></li>
           </ul>
         </li>
-        <li><a href="/cv">Mon CV</a></li>
+        <li><a href="/#cv">Mon CV</a></li>
         <li><a href="/mentions-legales">Mentions légales</a></li>
         <li><a href="/site-plan">Plan du site</a></li>
       </ul>
