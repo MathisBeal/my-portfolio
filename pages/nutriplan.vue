@@ -27,10 +27,10 @@
             alimentation plus saine.
           </div>
         </div>
-        <img src="/public/Nutriplan/logo_nutriplan.png" alt="Logo Nutriplan">
+        <img src="/Nutriplan/logo_nutriplan.png" alt="Logo Nutriplan">
       </div>
       <div class="part">
-        <img src="/public/Nutriplan/Nutriplan.png" alt="Logo Nutriplan">
+        <img src="/Nutriplan/Nutriplan.png" alt="Logo Nutriplan">
         <div class="sub-part ">
           <div class="part_title">
             <h2>Organisation</h2>

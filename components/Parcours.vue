@@ -13,7 +13,7 @@
             <li>En alternance</li>
           </ul>
         </div>
-        <img src="/public/logo_cfai.png" alt="Logo CFAI" class="content-img">
+        <img src="/logo_cfai.png" alt="Logo CFAI" class="content-img">
       </div>
     </div>
     <div class="event left">
@@ -27,7 +27,7 @@
             <li>Utilisation de périphériques</li>
           </ul>
         </div>
-        <img src="/public/logo_sam.png" alt="Logo SAM Outillage" class="content-img">
+        <img src="/logo_sam.png" alt="Logo SAM Outillage" class="content-img">
       </div>
     </div>
     <div class="event right">
@@ -40,7 +40,7 @@
             <li>Utilisation de MSSQL, React, .NET</li>
           </ul>
         </div>
-        <img src="/public/logo_isitecc.png" alt="Logo Isitecc" class="content-img">
+        <img src="/logo_isitecc.png" alt="Logo Isitecc" class="content-img">
       </div>
     </div>
         <div class="event left">
@@ -53,7 +53,7 @@
             web ou jeu vidéo, pour la plupart en équipe
           </p>
         </div>
-        <img src="/public/logo_iut.png" alt="Logo IUT" class="content-img">
+        <img src="/logo_iut.png" alt="Logo IUT" class="content-img">
       </div>
     </div>
 

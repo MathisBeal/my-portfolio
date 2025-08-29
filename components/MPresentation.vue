@@ -13,7 +13,7 @@
           diplôme de niveau Bac +5.
         </p>
       </div>
-      <img src="/public/pp.jpeg" alt="Photo de Mathis BÉAL" class="pp" />
+      <img src="/pp.jpeg" alt="Photo de Mathis BÉAL" class="pp" />
     </div>
   </div>
 </template>

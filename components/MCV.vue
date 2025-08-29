@@ -4,7 +4,7 @@
       <h2>Mon CV <span class="man_highlight">$man</span></h2>
     </div>
     <div class="div_cv">
-      <img src="/public/CV.jpg" alt="Mon CV" class="cv_img" />
+      <img src="/CV.jpg" alt="Mon CV" class="cv_img" />
     </div>
     <div class="download_div">
       <a href="/CV.pdf" rel="noopener" target="_blank">Télécharger mon CV</a>
